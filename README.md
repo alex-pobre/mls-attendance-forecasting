@@ -1,7 +1,6 @@
 # MLS Attendance & Ticket Revenue Forecasting Dashboard
 
-![CI](https://github.com/YOUR_GITHUB_USERNAME/mls-attendance-forecasting/actions/workflows/ci.yml/badge.svg)
-<!-- TODO: Replace YOUR_GITHUB_USERNAME above with your actual GitHub username before pushing -->
+![CI](https://github.com/alex-pobre/mls-attendance-forecasting/actions/workflows/ci.yml/badge.svg)
 
 An end-to-end sports analytics portfolio project that forecasts Major League Soccer match attendance and estimated ticket revenue using machine learning (XGBoost + Linear Regression), SHAP explainability, and an interactive Plotly Dash dashboard.
 
