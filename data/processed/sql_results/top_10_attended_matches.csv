@@ -1,0 +1,11 @@
+date,home_team,away_team,season,matchweek,attendance,utilization_pct,is_rivalry,is_playoff,temp_c,is_rainy,estimated_revenue
+2023-07-04,LA Galaxy,Los Angeles FC,2023,1,82110.0,91.5,1,0,27.8,0,5337150.0
+2026-04-18,Colorado Rapids,Inter Miami CF,2026,8,75824.0,99.6,0,0,13.6,0,3032960.0
+2026-02-21,Los Angeles FC,Inter Miami CF,2026,1,75673.0,97.6,0,0,19.5,0,5902494.0
+2022-03-05,Charlotte FC,LA Galaxy,2022,2,74479.0,99.5,0,0,23.0,0,4096345.0
+2018-12-08,Atlanta United FC,Portland Timbers FC,2018,41,73019.0,105.0,0,1,5.9,1,3796988.0
+2024-04-13,Sporting Kansas City,Inter Miami CF,2024,8,72610.0,95.0,0,0,28.4,0,3703110.0
+2019-08-03,Atlanta United FC,LA Galaxy,2019,21,72548.0,105.0,0,0,29.6,0,3772496.0
+2018-07-15,Atlanta United FC,Seattle Sounders FC,2018,20,72243.0,105.0,0,0,28.2,1,3756636.0
+2018-03-11,Atlanta United FC,D.C. United,2018,2,72035.0,105.0,0,0,14.3,1,3745820.0
+2026-03-07,D.C. United,Inter Miami CF,2026,3,72026.0,101.8,0,0,13.2,0,3601300.0

@@ -1,0 +1,85 @@
+{
+  "naive_team_average": {
+    "MAE": 3393.4,
+    "R2": 0.4101
+  },
+  "linear_regression": {
+    "MAE": 4082.9,
+    "R2": 0.3335
+  },
+  "xgboost": {
+    "MAE": 2461.0,
+    "R2": 0.7352,
+    "best_params": {
+      "colsample_bytree": 0.8,
+      "learning_rate": 0.05,
+      "max_depth": 6,
+      "n_estimators": 200,
+      "subsample": 0.8
+    }
+  },
+  "quantile_interval_coverage_80pct": 0.7958,
+  "quantile_interval_mean_width": 6054.3,
+  "test_season": 2025,
+  "n_train": 4480,
+  "n_test": 524,
+  "partial_season_holdout": {
+    "seasons": [
+      2026
+    ],
+    "n": 399,
+    "xgboost_MAE": 3116.9,
+    "xgboost_R2": 0.6578
+  },
+  "deployed_models_trained_on": "all 5,403 matches (refit after evaluation)",
+  "features_used": [
+    "season",
+    "matchweek",
+    "day_of_week",
+    "is_weekend",
+    "temperature_max",
+    "precipitation_sum",
+    "windspeed_max",
+    "is_rainy",
+    "is_extreme_heat",
+    "is_cold",
+    "is_rivalry",
+    "is_playoff",
+    "is_capacity_restricted",
+    "home_team_form",
+    "away_team_quality",
+    "days_since_last_home_match",
+    "stadium_capacity",
+    "metro_population",
+    "avg_ticket_price_usd",
+    "home_team_enc",
+    "away_team_enc",
+    "away_team_draw",
+    "is_alternate_venue",
+    "conf_East",
+    "tier_Large",
+    "stage_Early",
+    "stage_Late"
+  ],
+  "leakage_excluded": [
+    "attendance_pct",
+    "estimated_revenue",
+    "goal_diff"
+  ],
+  "zero_variance_dropped": [],
+  "redundant_dummies_dropped": [
+    "stage_Playoff",
+    "conf_West",
+    "tier_Medium",
+    "stage_Mid"
+  ],
+  "vif_dropped": [
+    "days_since_season_start",
+    "month"
+  ],
+  "top3_shap_features": [
+    "stadium_capacity",
+    "home_team_enc",
+    "metro_population"
+  ]
+}

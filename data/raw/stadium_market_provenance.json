@@ -1,0 +1,133 @@
+{
+  "ATL": {
+    "capacity_source": "hardcoded_fallback",
+    "capacity_scrape_error": "invalid literal for int() with base 10: ''",
+    "population_source": "hardcoded_fallback"
+  },
+  "ATX": {
+    "capacity_source": "wikipedia_scraped",
+    "population_source": "hardcoded_fallback"
+  },
+  "CHI": {
+    "capacity_source": "wikipedia_scraped",
+    "population_source": "hardcoded_fallback"
+  },
+  "CLB": {
+    "capacity_source": "wikipedia_scraped",
+    "population_source": "hardcoded_fallback"
+  },
+  "CLT": {
+    "capacity_source": "wikipedia_scraped",
+    "population_source": "hardcoded_fallback"
+  },
+  "COL": {
+    "capacity_source": "wikipedia_scraped",
+    "population_source": "hardcoded_fallback"
+  },
+  "DAL": {
+    "capacity_source": "hardcoded_fallback",
+    "capacity_scrape_error": "Scraped capacity 11,000 implausible vs reference 19,096",
+    "population_source": "hardcoded_fallback"
+  },
+  "DC": {
+    "capacity_source": "wikipedia_scraped",
+    "population_source": "hardcoded_fallback"
+  },
+  "HOU": {
+    "capacity_source": "wikipedia_scraped",
+    "population_source": "hardcoded_fallback"
+  },
+  "LA": {
+    "capacity_source": "wikipedia_scraped",
+    "population_source": "hardcoded_fallback"
+  },
+  "LAFC": {
+    "capacity_source": "hardcoded_fallback",
+    "capacity_scrape_error": "Capacity row not found in infobox",
+    "population_source": "hardcoded_fallback"
+  },
+  "MIA": {
+    "capacity_source": "wikipedia_scraped",
+    "population_source": "hardcoded_fallback"
+  },
+  "MIN": {
+    "capacity_source": "wikipedia_scraped",
+    "population_source": "hardcoded_fallback"
+  },
+  "MTL": {
+    "capacity_source": "wikipedia_scraped",
+    "population_source": "hardcoded_fallback"
+  },
+  "NE": {
+    "capacity_source": "hardcoded_fallback",
+    "capacity_scrape_error": "invalid literal for int() with base 10: ''",
+    "population_source": "hardcoded_fallback"
+  },
+  "NSH": {
+    "capacity_source": "hardcoded_fallback",
+    "capacity_scrape_error": "404 Client Error: Not Found for url: https://en.wikipedia.org/wiki/GEODIS_Park",
+    "population_source": "hardcoded_fallback"
+  },
+  "NY": {
+    "capacity_source": "wikipedia_scraped",
+    "population_source": "hardcoded_fallback"
+  },
+  "NYC": {
+    "capacity_source": "hardcoded_fallback",
+    "capacity_scrape_error": "invalid literal for int() with base 10: ''",
+    "population_source": "hardcoded_fallback"
+  },
+  "ORL": {
+    "capacity_source": "wikipedia_scraped",
+    "population_source": "hardcoded_fallback"
+  },
+  "PHI": {
+    "capacity_source": "wikipedia_scraped",
+    "population_source": "hardcoded_fallback"
+  },
+  "POR": {
+    "capacity_source": "wikipedia_scraped",
+    "population_source": "hardcoded_fallback"
+  },
+  "RSL": {
+    "capacity_source": "wikipedia_scraped",
+    "population_source": "hardcoded_fallback"
+  },
+  "SD": {
+    "capacity_source": "wikipedia_scraped",
+    "population_source": "hardcoded_fallback"
+  },
+  "SEA": {
+    "capacity_source": "wikipedia_scraped",
+    "population_source": "hardcoded_fallback"
+  },
+  "SJ": {
+    "capacity_source": "wikipedia_scraped",
+    "population_source": "hardcoded_fallback"
+  },
+  "SKC": {
+    "capacity_source": "wikipedia_scraped",
+    "population_source": "hardcoded_fallback"
+  },
+  "STL": {
+    "capacity_source": "hardcoded_fallback",
+    "capacity_scrape_error": "404 Client Error: Not Found for url: https://en.wikipedia.org/wiki/CITYPARK",
+    "population_source": "hardcoded_fallback"
+  },
+  "TOR": {
+    "capacity_source": "wikipedia_scraped",
+    "population_source": "hardcoded_fallback"
+  },
+  "VAN": {
+    "capacity_source": "wikipedia_scraped",
+    "population_source": "hardcoded_fallback"
+  },
+  "CIN": {
+    "capacity_source": "wikipedia_scraped",
+    "population_source": "hardcoded_fallback"
+  },
+  "CHV": {
+    "capacity_source": "wikipedia_scraped",
+    "population_source": "hardcoded_fallback"
+  }
+}

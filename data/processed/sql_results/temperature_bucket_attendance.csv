@@ -1,0 +1,5 @@
+temperature_bucket,games_played,avg_attendance,avg_utilization_pct
+1. Cold (<10C / <50F),363,20627.0,75.9
+2. Mild (10-20C / 50-68F),1317,21913.0,80.9
+3. Warm (20-30C / 68-86F),2676,21530.0,81.7
+4. Hot (>=30C / >=86F),1047,20403.0,83.1

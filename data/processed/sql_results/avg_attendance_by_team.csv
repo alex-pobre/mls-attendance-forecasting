@@ -1,0 +1,32 @@
+home_team,conference,stadium_name,stadium_capacity,games_played,avg_attendance,avg_utilization_pct,avg_estimated_revenue,max_attendance
+Atlanta United FC,East,Mercedes-Benz Stadium,42500,147,47057.0,99.0,2446959.0,72548.0
+Seattle Sounders FC,West,Lumen Field,68740,215,37298.0,92.3,2648166.0,67385.0
+Charlotte FC,East,Bank of America Stadium,75037,78,32990.0,44.1,1814451.0,74479.0
+Nashville SC,East,GEODIS Park,30000,98,26060.0,80.6,1511467.0,30109.0
+San Diego FC,West,Snapdragon Stadium,35000,30,25899.0,74.0,1502121.0,34506.0
+FC Cincinnati,East,TQL Stadium,26000,114,24482.0,91.1,1346505.0,32250.0
+Toronto FC,East,BMO Field,28351,210,23307.0,74.9,1608190.0,44828.0
+Orlando City SC,East,Inter&Co Stadium,24453,177,23194.0,76.7,1020537.0,62510.0
+LA Galaxy,West,Dignity Health Sports Park,27000,216,22392.0,81.1,1455508.0,82110.0
+St. Louis City SC,West,CITYPARK,22500,62,22343.0,99.6,1206514.0,22500.0
+New York City FC,East,Yankee Stadium,54251,166,22174.0,71.9,1818234.0,48047.0
+Portland Timbers FC,West,Providence Park,24686,211,22078.0,87.5,1280528.0,25218.0
+Los Angeles FC,West,BMO Stadium,22000,129,22077.0,98.4,1722024.0,75673.0
+Austin FC,West,Q2 Stadium,20738,93,20738.0,101.2,1265017.0,20738.0
+Vancouver Whitecaps FC,West,BC Place,54500,207,20719.0,90.7,1077398.0,51035.0
+New England Revolution,East,Gillette Stadium,65878,211,20402.0,31.0,1081331.0,65612.0
+Minnesota United FC,West,Allianz Field,19400,142,19725.0,84.7,966542.0,52242.0
+Real Salt Lake,West,America First Field,20213,216,19337.0,95.6,850807.0,21810.0
+Sporting Kansas City,West,Children's Mercy Park,18467,214,19029.0,100.1,970486.0,72610.0
+New York Red Bulls,East,Red Bull Arena,25000,207,18755.0,75.0,1256571.0,26276.0
+Inter Miami CF,East,Chase Stadium,21550,94,18211.0,91.3,1602542.0,26715.0
+CF Montréal,East,Stade Saputo,19619,198,18026.0,86.4,829215.0,37896.0
+San Jose Earthquakes,West,PayPal Park,18000,213,17761.0,90.3,834756.0,50978.0
+Columbus Crew,East,Lower.com Field,20371,217,17524.0,85.9,736023.0,60614.0
+Houston Dynamo FC,West,Shell Energy Stadium,22039,217,17444.0,79.2,715215.0,22651.0
+Philadelphia Union,East,Subaru Park,18500,214,17435.0,94.2,802013.0,19778.0
+Chicago Fire FC,East,Soldier Field,66944,214,16880.0,58.1,810254.0,63094.0
+D.C. United,East,Audi Field,20000,217,16760.0,64.6,838013.0,72026.0
+Colorado Rapids,West,Dick's Sporting Goods Park,18061,209,15431.0,83.8,617244.0,75824.0
+FC Dallas,West,Toyota Stadium,19096,215,15197.0,74.1,653492.0,22035.0
+Chivas USA,West,Dignity Health Sports Park,27000,34,7714.0,28.6,424288.0,18652.0

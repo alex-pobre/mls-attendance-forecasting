@@ -1,0 +1,31 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: pip install -r requirements-dev.txt
+      - name: Collect data
+        run: python src/collect_data.py
+      - name: Clean data
+        run: python src/clean_data.py
+      - name: Run SQL analysis
+        run: python src/sql_loader.py
+      - name: Run EDA notebook
+        run: jupyter nbconvert --to notebook --execute notebooks/eda.ipynb --output notebooks/eda.ipynb
+      - name: Train model
+        run: python src/model.py
+      - name: Confirm dashboard imports
+        run: python -c "from src import dashboard; print('Dashboard imports OK')"

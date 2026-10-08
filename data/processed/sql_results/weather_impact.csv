@@ -1,0 +1,7 @@
+condition_type,condition_value,sample_count,avg_attendance
+All Games,All,5185,21192.0
+Rain,Dry,4285,21153.0
+Rain,Rainy,900,21378.0
+Temperature,Cold (<4C),66,19297.0
+Temperature,Extreme Heat (>35C),134,19194.0
+Temperature,Normal,4985,21271.0

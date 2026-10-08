@@ -1,0 +1,8 @@
+day_name,day_of_week,sample_count,avg_attendance,avg_utilization_pct
+Monday,0,11,25317.0,95.5
+Tuesday,1,35,21705.0,80.2
+Wednesday,2,761,19204.0,75.3
+Thursday,3,48,20586.0,80.0
+Friday,4,204,20684.0,83.4
+Saturday,5,3273,21145.0,81.5
+Sunday,6,853,23228.0,84.1

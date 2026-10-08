@@ -1,0 +1,31 @@
+team_abbr,team,stadium,city,state,latitude,longitude,capacity,avg_attendance,home_matches
+ATL,Atlanta United FC,Mercedes-Benz Stadium,Atlanta,GA,33.7554,-84.4009,42500,41683,16
+ATX,Austin FC,Q2 Stadium,Austin,TX,30.387,-97.7191,20738,20738,18
+MTL,CF Montréal,Stade Saputo,Montreal,QC,45.5638,-73.551,19619,16158,16
+CLT,Charlotte FC,Bank of America Stadium,Charlotte,NC,35.2258,-80.8528,75037,31314,17
+CHI,Chicago Fire FC,Soldier Field,Chicago,IL,41.8623,-87.6167,66944,22255,18
+COL,Colorado Rapids,Dick's Sporting Goods Park,Commerce City,CO,39.8054,-104.8919,18061,15890,17
+CLB,Columbus Crew,Lower.com Field,Columbus,OH,39.969,-83.0175,20371,20376,18
+DC,DC United,Audi Field,Washington,DC,38.8683,-77.0122,20000,16321,16
+CIN,FC Cincinnati,TQL Stadium,Cincinnati,OH,39.1114,-84.5222,26000,24688,20
+DAL,FC Dallas,Toyota Stadium,Frisco,TX,33.1548,-96.8354,19096,11012,18
+HOU,Houston Dynamo FC,Shell Energy Stadium,Houston,TX,29.752,-95.351,22039,17693,17
+MIA,Inter Miami CF,Chase Stadium,Fort Lauderdale,FL,26.1904,-80.1576,21550,20269,19
+LA,LA Galaxy,Dignity Health Sports Park,Carson,CA,33.8644,-118.2611,27000,19871,16
+LAFC,Los Angeles FC,BMO Stadium,Los Angeles,CA,34.0126,-118.2849,22000,21943,18
+MIN,Minnesota United FC,Allianz Field,Saint Paul,MN,44.9531,-93.165,19400,19094,19
+NSH,Nashville SC,GEODIS Park,Nashville,TN,36.1303,-86.7714,30000,26638,18
+NE,New England Revolution,Gillette Stadium,Foxborough,MA,42.0909,-71.2643,65878,24477,17
+NYC,New York City FC,Yankee Stadium,New York,NY,40.8296,-73.9262,54251,22231,14
+NY,New York Red Bulls,Red Bull Arena,Harrison,NJ,40.737,-74.1502,25000,19710,17
+ORL,Orlando City SC,Inter&Co Stadium,Orlando,FL,28.5392,-81.3892,25500,20573,17
+PHI,Philadelphia Union,Subaru Park,Chester,PA,39.8317,-75.3797,18500,18433,18
+POR,Portland Timbers,Providence Park,Portland,OR,45.5213,-122.6916,25218,21915,19
+RSL,Real Salt Lake,America First Field,Sandy,UT,40.583,-111.893,20213,19775,17
+SD,San Diego FC,Snapdragon Stadium,San Diego,CA,32.7831,-117.1188,35000,28949,20
+SJ,San Jose Earthquakes,PayPal Park,San Jose,CA,37.3516,-121.925,18000,16210,17
+SEA,Seattle Sounders FC,Lumen Field,Seattle,WA,47.5952,-122.3316,68740,30943,18
+SKC,Sporting Kansas City,Children's Mercy Park,Kansas City,KS,39.1224,-94.8232,18467,16604,17
+STL,St. Louis City SC,CITYPARK,St. Louis,MO,38.6332,-90.2138,22500,22090,16
+TOR,Toronto FC,BMO Field,Toronto,ON,43.6334,-79.4179,28180,21353,17
+VAN,Vancouver Whitecaps FC,BC Place,Vancouver,BC,49.2769,-123.1121,54500,24038,19
