@@ -24,7 +24,7 @@ jobs:
       - name: Run SQL analysis
         run: python src/sql_loader.py
       - name: Run EDA notebook
-        run: jupyter nbconvert --to notebook --execute notebooks/eda.ipynb --output notebooks/eda.ipynb
+        run: jupyter nbconvert --to notebook --execute notebooks/eda.ipynb --output eda.ipynb --ExecutePreprocessor.timeout=300
       - name: Train model
         run: python src/model.py
       - name: Confirm dashboard imports
